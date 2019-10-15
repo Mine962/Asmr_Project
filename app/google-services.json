@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250917153421",
+    "firebase_url": "https://ppomo-c13ae.firebaseio.com",
+    "project_id": "ppomo-c13ae",
+    "storage_bucket": "ppomo-c13ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250917153421:android:b0efb08be8c047002b10c4",
+        "android_client_info": {
+          "package_name": "net.dgsw.asmr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250917153421-vvr32bf40lnas6ir541a4vng6jo7gr4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDYa0rpQJ7KqIqjwbAP1pmbZBtBXky54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250917153421-vvr32bf40lnas6ir541a4vng6jo7gr4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
